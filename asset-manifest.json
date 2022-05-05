@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LNHA/static/css/main.a8a92ee0.css",
+    "main.js": "/LNHA/static/js/main.96d09df9.js",
+    "static/js/787.56d9acf9.chunk.js": "/LNHA/static/js/787.56d9acf9.chunk.js",
+    "index.html": "/LNHA/index.html",
+    "main.a8a92ee0.css.map": "/LNHA/static/css/main.a8a92ee0.css.map",
+    "main.96d09df9.js.map": "/LNHA/static/js/main.96d09df9.js.map",
+    "787.56d9acf9.chunk.js.map": "/LNHA/static/js/787.56d9acf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8a92ee0.css",
+    "static/js/main.96d09df9.js"
+  ]
+}
