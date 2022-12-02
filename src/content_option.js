@@ -14,7 +14,7 @@ const introdata = {
   },
   description: "Photographer and Front-End Developer",
   your_img_url:
-    "https://images.unsplash.com/photo-1590450350431-8c7553471863?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "https://drive.google.com/file/d/1BBzeYMY0COJdny1sl0BLwd5UPsNU3Ixq/view?usp=sharing",
 };
 
 const dataabout = {
@@ -161,8 +161,8 @@ const contactConfig = {
 };
 
 const socialprofils = {
-  github: "https://github.com",
-  facebook: "https://facebook.com",
+  github: "https://github.com/Ngocha2607",
+  facebook: "https://www.facebook.com/profile.php?id=100088359302685",
   linkedin: "https://linkedin.com",
   twitter: "https://twitter.com",
   youtube: "https://youtube.com",
